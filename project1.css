@@ -1,0 +1,65 @@
+main {
+    text-align: center;
+    width:100%;
+    background-color: rgb(244, 236, 236);
+    margin-top:30px auto 30px;
+    padding:10x;
+}
+
+header {
+   padding:5px;
+}
+
+h1{
+    font-size: 45px;
+}
+
+header p {
+    margin-top: -10px;
+}
+figure {
+    background-color: white;
+    Padding: 60px 0 60px;
+    width:98%;
+    margin:auto;
+
+}
+
+figure img {
+    width:80%;
+    display:block;
+    max-width:100%;
+    margin: auto;
+}
+
+ul {
+    text-align: left;
+    margin:auto;
+    max-width:500px;
+}
+
+span{
+    font-weight: bold;
+    margin-left:2px;
+}
+
+li {
+    margin-top:10px;
+}
+
+.first-h3 {
+    margin-top:30px;
+    margin-bottom:50px;
+}
+
+section{
+    padding:20px;
+}
+.footer {
+    margin-top: 30px;
+    margin-bottom:10px;
+    font-weight: bold;
+}
+a {
+    text-decoration: none;
+}
